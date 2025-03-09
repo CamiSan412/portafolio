@@ -12,7 +12,7 @@ export default function Footer() {
 
           <div className="flex space-x-6 mb-8">
             <Link
-              href="https://github.com"
+              href="https://github.com/CamiSan412"
               target="_blank"
               className="text-gray-400 hover:text-cyan-400 transition-colors"
             >
@@ -20,17 +20,14 @@ export default function Footer() {
               <span className="sr-only">Github</span>
             </Link>
             <Link
-              href="https://linkedin.com"
+              href="www.linkedin.com/in/milamaya"
               target="_blank"
               className="text-gray-400 hover:text-cyan-400 transition-colors"
             >
               <Linkedin className="h-6 w-6" />
               <span className="sr-only">LinkedIn</span>
             </Link>
-            <Link href="mailto:camila@example.com" className="text-gray-400 hover:text-cyan-400 transition-colors">
-              <Mail className="h-6 w-6" />
-              <span className="sr-only">Email</span>
-            </Link>
+            
             
           </div>
 
