@@ -61,7 +61,7 @@ export default function Projects() {
       id: 5,
       title: "Diseño UX/UI en Figma - Mafa",
       description:
-        "Proyecto de diseño - Prototipo de alta fidelidad creado en Figma para una aplicación móvil, incluyendo wireframes, mockups y prototipos interactivos.",
+        "MAFA es un prototipo de aplicación móvil diseñado para optimizar la planificación de eventos, ofreciendo una experiencia más intuitiva y eficiente. Su objetivo es facilitar a los usuarios la organización de cada detalle de su evento, brindando a los asesores información clave de manera estructurada y accesible. Esto permite mejorar la comunicación y agilizar el proceso de planificación, garantizando una mejor experiencia tanto para clientes como para organizadores.",
       image: "/Mafa.png",
       repo: "https://www.figma.com/design/2g2rgIgEoek715y7oUmqS0/Mafa?node-id=0-1&t=53oT24w0X7P2o0NM-1 ",
       demo: " https://www.figma.com/proto/2g2rgIgEoek715y7oUmqS0/Mafa?page-id=0%3A1&node-id=1-2&p=f&viewport=633%2C591%2C0.1&t=2wZ2yfGJcY4izQWd-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2&show-proto-sidebar=1 ",
@@ -71,7 +71,7 @@ export default function Projects() {
       id: 6,
       title: "Diseño UX/UI en Figma - Sistema Bascula", 
       description:
-        "Proyecto de diseño - Prototipo de alta fidelidad creado en Figma para una aplicación móvil, incluyendo wireframes, mockups y prototipos interactivos.",
+        "Este diseño de aplicación de escritorio está enfocado en mejorar el rendimiento y la usabilidad del sistema de báscula, optimizando tanto la velocidad de procesamiento como la interfaz de usuario. La nueva propuesta busca una experiencia más intuitiva y moderna, facilitando el registro, monitoreo y gestión del pesaje con mayor precisión y eficiencia.",
       image: "/SisBascula.png",
       repo: "https://www.figma.com/design/sKm8Xf5K5FvW4VZ1SWk6gZ/Prototipo-Sistema?node-id=0-1&t=o9JnidaoB63KMJYI-1",
       demo: "https://www.figma.com/proto/sKm8Xf5K5FvW4VZ1SWk6gZ/Prototipo-Sistema?page-id=0%3A1&node-id=1-75&p=f&viewport=277%2C284%2C0.25&t=apalqEWPL87cfx8X-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=1%3A528 ",
