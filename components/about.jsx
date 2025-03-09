@@ -69,12 +69,7 @@ export default function About() {
               retos y profundizar mis conocimientos en programación y diseño.
             </p>
 
-            <div className="flex flex-wrap gap-4">
-              <Button className="bg-cyan-500 hover:bg-cyan-600">Más sobre mí</Button>
-              <Button variant="outline" className="border-cyan-500 text-cyan-400 hover:bg-cyan-500/10">
-                Resumen
-              </Button>
-            </div>
+            
           </motion.div>
         </div>
       </div>
